@@ -121,5 +121,4 @@ If you use this code in academic work, please cite the associated paper/project.
 
 Contact
 -------
-Maintainer: (your name)
-Email: (your email)
+Email: (15221850754@163.com)
