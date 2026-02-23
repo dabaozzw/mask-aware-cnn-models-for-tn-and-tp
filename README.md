@@ -25,13 +25,6 @@ Key features
    - TN model: 5 masked conv layers, GroupNorm + ReLU
    - TP model: 6 masked conv layers, BatchNorm2d + ReLU + stage-wise dropout (0.2/0.3/0.4)
 
-Repository structure (suggested)
---------------------------------
-.
-├── TP model.py        # minimal TN training script
-├── TN model.py        # minimal TP training script
-├── requirements.txt
-└── README.txt
 
 Data requirements
 -----------------
